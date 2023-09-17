@@ -220,12 +220,11 @@ The following table shows the operating systems and languages that support in-po
 | F# | | | | | | |
 | Java | | | | | | |
 | JavaScript (Node.js) |✔|✔|✔| |✔<sup>1</sup>|✔<sup>1</sup>|
-| Python<sup>2</sup> | | | |✔ |✔<sup>1</sup> |✔<sup>1</sup> |
+| Python | | | |✔ |✔<sup>1</sup> |✔<sup>1</sup> |
 | PowerShell |✔|✔|✔| | | |
 | TypeScript (Node.js) | | | | | | |
 
 <sup>1</sup> In-portal editing is enabled only for HTTP and Timer triggers for Functions on Linux using Premium and Dedicated plans.  
-<sup>2</sup> In-portal editing is only supported for the [v1 Python programming model](functions-reference-python.md?pivots=python-mode-configuration).  
 
 ## Deployment behaviors
 
